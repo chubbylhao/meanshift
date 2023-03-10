@@ -11,8 +11,8 @@
 #### 基本原理
 
 - 论文：
-  - 《Mean shift: A robust approach toward feature space analysis》
-  - 《An Implementation of the Mean Shift Algorithm》
+  - [《Mean shift: A robust approach toward feature space analysis》](https://ieeexplore.ieee.org/document/1000236) 
+  - [《An Implementation of the Mean Shift Algorithm》](https://www.ipol.im/pub/art/2019/255/article_lr.pdf) 
 
 - 博客：
   - [mean shift 图像分割（一、二、三）](https://blog.csdn.net/u011511601/article/details/72843247) 
@@ -33,10 +33,10 @@
 
 | 图片名称  |                           原始图像                           |                      (hs, hr) = (4, 8)                       |                      (hs, hr) = (8, 16)                      |                           分割结果                           |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   boat    | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/boat_results/original.jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/boat_results/(4%2C%208).jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/boat_results/(8%2C%2016).jpg) | <img src="https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/boat_results/seg(8%2C%2016).png" style="zoom: 67%;" /> |
-| cameraman | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/cameraman_results/original.jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/cameraman_results/(4%2C%208).jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/cameraman_results/(8%2C%2016).jpg) | <img src="https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/cameraman_results/seg(8%2C%2016).png" style="zoom: 67%;" /> |
-|   house   | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/house_results/original.jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/house_results/(4%2C%208).jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/house_results/(8%2C%2016).jpg) | <img src="https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/house_results/seg(8%2C%2016).png" style="zoom: 67%;" /> |
-|  peppers  | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/peppers_results/original.jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/peppers_results/(4%2C%208).jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/peppers_results/(8%2C%2016).jpg) | <img src="https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/peppers_results/seg(8%2C%2016).png" style="zoom: 67%;" /> |
+|   boat    | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/boat_results/original.jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/boat_results/(4%2C%208).jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/boat_results/(8%2C%2016).jpg) | <img src="https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/boat_results/seg_(8%2C%2016).png" style="zoom: 67%;" /> |
+| cameraman | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/cameraman_results/original.jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/cameraman_results/(4%2C%208).jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/cameraman_results/(8%2C%2016).jpg) | <img src="https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/cameraman_results/seg_(8%2C%2016).png" style="zoom: 67%;" /> |
+|   house   | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/house_results/original.jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/house_results/(4%2C%208).jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/house_results/(8%2C%2016).jpg) | <img src="https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/house_results/seg_(8%2C%2016).png" style="zoom:67%;" /> |
+|  peppers  | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/peppers_results/original.jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/peppers_results/(4%2C%208).jpg) | ![](https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/peppers_results/(8%2C%2016).jpg) | <img src="https://raw.githubusercontent.com/chubbylhao/meanshift/main/image/results/peppers_results/seg_(8%2C%2016).png" style="zoom:67%;" /> |
 
 ------
 

@@ -63,8 +63,8 @@ if __name__ == '__main__':
     main()
     # 下面是对分割的初步尝试
     # FIXME: 我暂时没有想到什么好的合并策略
-    # # img = cv2.imread('image/results/mandrill_results/(32, 16).jpg')
-    # img = cv2.imread('image/results/mandrill_results/original.jpg')
+    # img = cv2.imread('image/results/mandrill_results/(32, 16).jpg')
+    # # img = cv2.imread('image/results/mandrill_results/original.jpg')
     # img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     # plt.imshow(img, cmap='Accent')
     # plt.axis('off')
